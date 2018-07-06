@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    A website
+</head>
+<body>
+   <h1 id="secret">So. You found this website somehow.</h1>
+    <p>(Oi, click it.)</p>
+    <script>
+        document.getElementById("secret").onclick = function () {
+            document.getElementById("secret").innerHTML = "This wasn't a secret. I tolled you to go here.";}
+    </script>
+
+</body>
+</html>
