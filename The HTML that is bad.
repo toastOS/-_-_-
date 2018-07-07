@@ -11,5 +11,7 @@
             document.getElementById("secret").innerHTML = "This wasn't a secret. I tolled you to go here.";}
     </script>
 
+<img src="shrug.jpg">
+
 </body>
 </html>
