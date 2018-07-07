@@ -10,7 +10,13 @@
         document.getElementById("secret").onclick = function () {
             document.getElementById("secret").innerHTML = "This wasn't a secret. I tolled you to go here.";}
     </script>
-
+<body>
+    <button id="button1">click this</button>
+    <div id="div1">Content 1</div>
+       
+    <button id="button2">Oi, click me as well</button>
+    <div id="div2"> Content 2</div>
+</body>
 <img src="shrug.jpg">
 
 </body>
